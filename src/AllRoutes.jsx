@@ -11,7 +11,7 @@ import GalleryPage from './pages/GalleryPage/GalleryPage'
 
 function AllRoutes() {
   return (
-    <Routes baseurl="https://itsmanibharathi.github.io/example/">
+    <Routes >
         <Route path='/' element={<LandingPage />} />
         <Route path='/about' element={<AboutPage /> } />
         <Route path='/service' element={<ServicePage />} />
@@ -19,7 +19,7 @@ function AllRoutes() {
         <Route path='/contact' element={<Contact />} />
         <Route path='*' element={<PageNotFound />} />
     </Routes>  
-    
+
   )
 }
 

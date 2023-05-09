@@ -9,7 +9,7 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return (
     <div>
-   <Router>
+   <Router baseurl="https://itsmanibharathi.github.io/example/">
       <Navbar />
       <AllRoutes />
       <Footer />
