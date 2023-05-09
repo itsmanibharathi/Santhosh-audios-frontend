@@ -11,7 +11,7 @@ import GalleryPage from './pages/GalleryPage/GalleryPage'
 
 function AllRoutes() {
   return (
-    <Routes basename="/example/">
+    <Routes baseurl="https://itsmanibharathi.github.io/example/">
         <Route path='/' element={<LandingPage />} />
         <Route path='/about' element={<AboutPage /> } />
         <Route path='/service' element={<ServicePage />} />
