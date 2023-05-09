@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itsmanibharathi/example/static/css/main.b24e5471.css",
-    "main.js": "/itsmanibharathi/example/static/js/main.e51687f0.js",
+    "main.js": "/itsmanibharathi/example/static/js/main.90274f8e.js",
     "static/media/banner1.png": "/itsmanibharathi/example/static/media/banner1.80927df303f6c2d5c28b.png",
     "static/media/banner2.png": "/itsmanibharathi/example/static/media/banner2.30d04f468e396335ce26.png",
     "static/media/logo.png": "/itsmanibharathi/example/static/media/logo.7f94dcaee3901c43c546.png",
@@ -9,10 +9,10 @@
     "static/media/whatsapp.png": "/itsmanibharathi/example/static/media/whatsapp.43a4918296128915afbb.png",
     "index.html": "/itsmanibharathi/example/index.html",
     "main.b24e5471.css.map": "/itsmanibharathi/example/static/css/main.b24e5471.css.map",
-    "main.e51687f0.js.map": "/itsmanibharathi/example/static/js/main.e51687f0.js.map"
+    "main.90274f8e.js.map": "/itsmanibharathi/example/static/js/main.90274f8e.js.map"
   },
   "entrypoints": [
     "static/css/main.b24e5471.css",
-    "static/js/main.e51687f0.js"
+    "static/js/main.90274f8e.js"
   ]
 }
